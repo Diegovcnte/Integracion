@@ -1,7 +1,7 @@
 Archivo .env omitido por razones de seguridad.
-Pueden probar la página en
+Pueden probar la página en:
 ferremax.tecbit.cl
-Pueden ingresar al dashboar en
+Pueden ingresar al dashboard en:
 ferremax.tecbit.cl/dashboard
 
 Las credenciales del administrador son únicas:
